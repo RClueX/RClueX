@@ -1,1 +1,1 @@
-# [RClueX](https://rcluex.github.io/)
+# [RClueX](https://RClueX/)
